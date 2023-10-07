@@ -1,6 +1,4 @@
 # LAB7
-# Don't forget to list any authorized forms of collaboration using a Collaboration Statement
-# Worked with TA Harsh and LA Daniel
 
 class MaxBinaryHeap:
     '''

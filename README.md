@@ -1,2 +1,2 @@
-# Python Projects
-This is an accumulation of all my projects completed while taking a Python course. It covered OOP, an infix to postfix calculator, binary heaps, AVL sorting trees, and queues.
+# Python Binary Heaps and Queues
+This is a project from when I took a data structures Python course. It covered binary heaps, heap sorting, and queues.
